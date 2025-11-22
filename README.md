@@ -38,7 +38,7 @@ O trabalho foi desenvolvido em **Google Colab** e aborda manipulação de dados,
 
 ## 🔗 Link do Google Colab
 O notebook completo pode ser acessado em:  
-[Google Colab - Atividade Prática](https://colab.research.google.com/drive/1m8UdHlL1WgOoV-eGORRejt5axw8iM3v?usp=sharing)
+[Google Colab - Atividade Prática](https://colab.research.google.com/drive/1m8UdHlL1WgOoV-eG0_RRejt5axw8iM3v#scrollTo=RWfEfPkRcAey).
 
 ---
 
